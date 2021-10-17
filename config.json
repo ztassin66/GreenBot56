@@ -1,0 +1,12 @@
+{
+
+    "prefix": "*",
+    "token": "BOT TOKEN",
+    "ownerID": "OWNER ID",
+    "footer": " Green-bot | open source project ",
+    "supportID": "SUPPORT ID",
+    "status": "regarder ses {server} serveurs",
+    "color": "#3A871F",
+    "MongoURL": ""
+
+}
